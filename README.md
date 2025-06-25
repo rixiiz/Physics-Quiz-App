@@ -8,3 +8,5 @@ Key insights:
 GUIs are very easy and intuitive to make but take a long time to setup the layout.
 Libraries like Apache POI facilitate the usage of external tools like Excel during program development.
 Using the MVC model to organize the classes is a helpful way to structure code and maintain readability over time or in collaborative environments.
+
+DOWNLOAD ALL THE FILES IN THE PRODUCT FOLDER TO RUN THE PROJECT
