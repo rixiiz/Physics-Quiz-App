@@ -15,7 +15,7 @@ public class ExcelReader {
      */
     public String readExcel(String sheetName, int rNum, int cNum){
         String data = "";
-        String excelLocation = "C:\\College\\1 IB\\CS HL\\IA\\IA product\\Test_format.xlsx";
+        String excelLocation = "Test.xlsx"; //PATH TO BE CHANGED DEPENDING ON THE LOCATION OF WHERE IT IS STORED
         try {
             //create a workbook from the excel file linked
             FileInputStream fis = new FileInputStream(excelLocation);
@@ -33,3 +33,4 @@ public class ExcelReader {
         return data;
     }
 }
+
