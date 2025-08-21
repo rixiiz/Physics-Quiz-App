@@ -19,7 +19,7 @@ A GUI designed to help International Baccalaureate (IB) Physics students revise 
 
 ## Repo guide:
 1. Clone the repo: `git clone https://github.com/rixiiz/Physics-Quiz-App.git`
-2. Check requirements.txt
+2. Check `requirements.txt`
 3. Download all the `jar` files into a folder (go to `https://poi.apache.org/download.html` `https://logging.apache.org/log4j/2.x/download.html` to download the binary distributions and find all the corresponding `jar` files inside the zip folder)
 4. Open project (folder `Product` in `Physics-Quiz-App`) in IntelliJ
 5. Go to File → Project Structure → Modules → Dependencies → + → JARs or directories
