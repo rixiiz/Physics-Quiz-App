@@ -1,5 +1,6 @@
 # Physics-Quiz-App
 A GUI designed to help International Baccalaureate (IB) Physics students revise multiple-choice questions efficiently.
+Documentation files are attached in the folder `documentation`
 
 ## Features:
 - Topic-specific MCQs (can choose up to 8 topics)
